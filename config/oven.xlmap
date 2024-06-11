@@ -1,0 +1,14 @@
+<logicalNameMap>
+
+<!--
+  <module name="Monitoring">
+
+    <redirectedRegister name="heatingCurrent">
+      <targetDevice>device</targetDevice>
+      <targetRegister>HEATER.CURRENT_READBACK</targetRegister>
+    </redirectedRegister>
+
+  </module>
+-->
+
+</logicalNameMap>

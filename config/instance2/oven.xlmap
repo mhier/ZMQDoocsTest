@@ -1,0 +1,13 @@
+<logicalNameMap>
+
+  <module name="Receiver">
+
+    <redirectedRegister name="in">
+      <targetDevice>device</targetDevice>
+      <targetRegister>Sender.out</targetRegister>
+      <plugin name="forceReadOnly"/>
+    </redirectedRegister>
+
+  </module>
+
+</logicalNameMap>
